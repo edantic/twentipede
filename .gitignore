@@ -1,0 +1,6 @@
+#
+# File and directory patterns to ignore for this project.
+#
+
+.venv/
+.temp/
